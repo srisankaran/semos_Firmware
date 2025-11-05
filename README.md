@@ -1,4 +1,4 @@
-# ⚡ ACSense ⚡
+# ⚡ SEMOS — Smart Energy Meter  ⚡
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/Build-Stable-blue.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-ESP32-orange.svg)]()
@@ -10,7 +10,7 @@
 
 ## 📘 Overview  
 
-- **ACSense** is an advanced IoT-based energy monitoring solution designed to measure, analyze, and log electrical parameters of Air conditioners in real time.
+- **SEMOS** is an advanced IoT-based energy monitoring solution designed to measure, analyze, and log electrical parameters of Air conditioners in real time.
 - It combines precision sensing, ESP32-based control, and a cloud-synced web dashboard for efficient energy tracking, remote access, and data management. SEMOS is developed to operate continuously and reliably in both standalone and network-connected modes.  
 
 ## ✨ Key Features
@@ -29,5 +29,5 @@
 - [ ] **Enhanced Web Interface** – To expand firmware–website integration for richer visualization, control, and analytics.
 
 ## 💡 Summary  
-- ACSense is built for precision, reliability, and expandability.  
+- Semos is built for precision, reliability, and expandability.  
 - It serves as a robust foundation for academic, industrial, and research-based energy monitoring systems, combining IoT intelligence with real-world stability.
