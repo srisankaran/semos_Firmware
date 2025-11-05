@@ -25,11 +25,9 @@
 ## 🧩 In-Development Updates
 
 - [ ] **Accurate Timestamping**: Highly reliable timestamp accuracy - NTP synchronization and RTC backup.  
-- [ ] **Real-Time Clock (RTC) with Cloud Sync** – To maintain timing accuracy even during power or network failures.  
-- [ ] **SD Card Integration** – To provide local data storage with continuous rewriting and cloud synchronization.  
 - [ ] **Environmental Monitoring** – To integrate high-accuracy temperature and humidity sensors.  
 - [ ] **Enhanced Web Interface** – To expand firmware–website integration for richer visualization, control, and analytics.
 
 ## 💡 Summary  
-- SEMOS is built for precision, reliability, and expandability.  
+- ACSense is built for precision, reliability, and expandability.  
 - It serves as a robust foundation for academic, industrial, and research-based energy monitoring systems, combining IoT intelligence with real-world stability.
